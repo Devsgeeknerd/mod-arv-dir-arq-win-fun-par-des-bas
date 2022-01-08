@@ -7,3 +7,4 @@
 - [ ] Estrutura de uma Página Web.
 - [ ] Cabeçalhos.
 - [ ] Parágrafos.
+- [ ] Formatação de Textos.
