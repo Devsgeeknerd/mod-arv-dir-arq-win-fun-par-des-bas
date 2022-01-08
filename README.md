@@ -9,3 +9,4 @@
 - [ ] Parágrafos.
 - [ ] Formatação de Textos.
 - [ ] Listas não Ordenadas.
+- [ ] Listas Ordenadas.
