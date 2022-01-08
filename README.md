@@ -6,3 +6,4 @@
 - [ ] Onde Salvar? Como Abrir?
 - [ ] Estrutura de uma Página Web.
 - [ ] Cabeçalhos.
+- [ ] Parágrafos.
