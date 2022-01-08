@@ -13,3 +13,4 @@
 - [ ] Imagens.
 - [ ] Links.
 - [ ] Tablelas.
+- [ ] Formulários.
