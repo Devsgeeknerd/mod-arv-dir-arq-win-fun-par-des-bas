@@ -15,3 +15,4 @@
 - [ ] Tablelas.
 - [ ] Formulários.
 - [ ] Iframe.
+- [ ] Adicionadores de Eventos (OnClick).
