@@ -33,6 +33,7 @@
 - [ ] Exercício — Criar Menu Simples.
 - [ ] Position — Static, Absolute, Fixed e Relative.
 - [ ] Display — None, Inline, Block e Inline-block.
+- [ ] Exercício — Criar um Rodapé Fixo.
 
 ## INFORMAÇÕES
 
