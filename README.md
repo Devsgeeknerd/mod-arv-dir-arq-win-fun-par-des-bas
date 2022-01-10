@@ -18,6 +18,7 @@
 - [ ] Adicionadores de Eventos (OnClick).
 - [ ] O que é CSS?
 - [ ] CSS — Inline.
+- [ ] CSS — Seletores.
 
 ## INFORMAÇÕES
 
