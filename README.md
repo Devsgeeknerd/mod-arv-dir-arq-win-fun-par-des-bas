@@ -43,6 +43,7 @@
 - [ ] Elementos Inline, Block e Inline-block.
 - [ ] Formatando Links.
 - [ ] Photoshop — Introdução.
+- [ ] Photoshop — Criando Documento.
 
 ## INFORMAÇÕES
 
