@@ -40,6 +40,7 @@
 - [ ] Formatação de Texto.
 - [ ] Box Model.
 - [ ] Elementos Flutuantes.
+- [ ] Elementos Inline, Block e Inline-block.
 
 ## INFORMAÇÕES
 
