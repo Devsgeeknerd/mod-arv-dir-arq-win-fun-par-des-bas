@@ -32,6 +32,7 @@
 - [ ] Exercício — Criar Tabela Complexa.
 - [ ] Exercício — Criar Menu Simples.
 - [ ] Position — Static, Absolute, Fixed e Relative.
+- [ ] Display — None, Inline, Block e Inline-block.
 
 ## INFORMAÇÕES
 
