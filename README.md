@@ -42,6 +42,7 @@
 - [ ] Elementos Flutuantes.
 - [ ] Elementos Inline, Block e Inline-block.
 - [ ] Formatando Links.
+- [ ] Photoshop — Introdução.
 
 ## INFORMAÇÕES
 
