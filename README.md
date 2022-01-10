@@ -17,3 +17,7 @@
 - [ ] Iframe.
 - [ ] Adicionadores de Eventos (OnClick).
 - [ ] O que é CSS?
+
+## INFORMAÇÕES
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.html-e-css-zp "Total de Visitas")
