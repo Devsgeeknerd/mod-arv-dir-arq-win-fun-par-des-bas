@@ -31,6 +31,7 @@
 - [ ] Exercício — Criar Tabelas Intermediaria.
 - [ ] Exercício — Criar Tabela Complexa.
 - [ ] Exercício — Criar Menu Simples.
+- [ ] Position — Static, Absolute, Fixed e Relative.
 
 ## INFORMAÇÕES
 
