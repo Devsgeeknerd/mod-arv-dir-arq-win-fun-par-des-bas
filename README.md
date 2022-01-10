@@ -39,6 +39,7 @@
 - [ ] Resolução — Criar um Menu com DropDown.
 - [ ] Formatação de Texto.
 - [ ] Box Model.
+- [ ] Elementos Flutuantes.
 
 ## INFORMAÇÕES
 
