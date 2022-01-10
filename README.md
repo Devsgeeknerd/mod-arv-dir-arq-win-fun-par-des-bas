@@ -22,6 +22,7 @@
 - [ ] Classes e IDs.
 - [ ] Tags, Div e Span.
 - [ ] Seletor Múltiplo.
+- [ ] Bordas.
 
 ## INFORMAÇÕES
 
