@@ -44,6 +44,7 @@
 - [ ] Formatando Links.
 - [ ] Photoshop — Introdução.
 - [ ] Photoshop — Criando Documento.
+- [ ] Photoshop — Cortando Layout.
 
 ## INFORMAÇÕES
 
