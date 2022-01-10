@@ -23,6 +23,7 @@
 - [ ] Tags, Div e Span.
 - [ ] Seletor Múltiplo.
 - [ ] Bordas.
+- [ ] Seletor — Interno.
 
 ## INFORMAÇÕES
 
