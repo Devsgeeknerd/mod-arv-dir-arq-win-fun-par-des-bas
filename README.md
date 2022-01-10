@@ -41,6 +41,7 @@
 - [ ] Box Model.
 - [ ] Elementos Flutuantes.
 - [ ] Elementos Inline, Block e Inline-block.
+- [ ] Formatando Links.
 
 ## INFORMAÇÕES
 
