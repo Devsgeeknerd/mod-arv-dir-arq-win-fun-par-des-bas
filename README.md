@@ -24,6 +24,7 @@
 - [ ] Seletor Múltiplo.
 - [ ] Bordas.
 - [ ] Seletor — Interno.
+- [ ] Seletor — Herança.
 
 ## INFORMAÇÕES
 
