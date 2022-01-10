@@ -19,6 +19,7 @@
 - [ ] O que é CSS?
 - [ ] CSS — Inline.
 - [ ] CSS — Seletores.
+- [ ] Classes e IDs.
 
 ## INFORMAÇÕES
 
