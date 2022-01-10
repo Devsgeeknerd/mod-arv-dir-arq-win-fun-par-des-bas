@@ -30,6 +30,7 @@
 - [ ] Exercício — Selecionar os Itens e Colorir.
 - [ ] Exercício — Criar Tabelas Intermediaria.
 - [ ] Exercício — Criar Tabela Complexa.
+- [ ] Exercício — Criar Menu Simples.
 
 ## INFORMAÇÕES
 
