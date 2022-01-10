@@ -21,6 +21,7 @@
 - [ ] CSS — Seletores.
 - [ ] Classes e IDs.
 - [ ] Tags, Div e Span.
+- [ ] Seletor Múltiplo.
 
 ## INFORMAÇÕES
 
