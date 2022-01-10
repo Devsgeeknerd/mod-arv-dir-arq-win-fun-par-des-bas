@@ -29,6 +29,7 @@
 - [ ] Seletor — Hover.
 - [ ] Exercício — Selecionar os Itens e Colorir.
 - [ ] Exercício — Criar Tabelas Intermediaria.
+- [ ] Exercício — Criar Tabela Complexa.
 
 ## INFORMAÇÕES
 
