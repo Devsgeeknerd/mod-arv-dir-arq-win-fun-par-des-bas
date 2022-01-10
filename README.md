@@ -20,6 +20,7 @@
 - [ ] CSS — Inline.
 - [ ] CSS — Seletores.
 - [ ] Classes e IDs.
+- [ ] Tags, Div e Span.
 
 ## INFORMAÇÕES
 
