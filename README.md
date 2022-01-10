@@ -35,6 +35,7 @@
 - [ ] Display — None, Inline, Block e Inline-block.
 - [ ] Exercício — Criar um Rodapé Fixo.
 - [ ] Criando um Menu do Jeito Certo.
+- [ ] Exercício — Criar um Menu com DropDown.
 
 ## INFORMAÇÕES
 
