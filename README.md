@@ -25,6 +25,7 @@
 - [ ] Bordas.
 - [ ] Seletor — Interno.
 - [ ] Seletor — Herança.
+- [ ] Seletor — Adjacente.
 
 ## INFORMAÇÕES
 
