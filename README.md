@@ -26,6 +26,7 @@
 - [ ] Seletor — Interno.
 - [ ] Seletor — Herança.
 - [ ] Seletor — Adjacente.
+- [ ] Seletor — Hover.
 
 ## INFORMAÇÕES
 
