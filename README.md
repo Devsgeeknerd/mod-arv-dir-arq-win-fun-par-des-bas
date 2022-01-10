@@ -28,6 +28,7 @@
 - [ ] Seletor — Adjacente.
 - [ ] Seletor — Hover.
 - [ ] Exercício — Selecionar os Itens e Colorir.
+- [ ] Exercício — Criar Tabelas Intermediaria.
 
 ## INFORMAÇÕES
 
