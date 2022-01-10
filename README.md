@@ -45,6 +45,7 @@
 - [ ] Photoshop — Introdução.
 - [ ] Photoshop — Criando Documento.
 - [ ] Photoshop — Cortando Layout.
+- [ ] Photoshop — Salvando Imagens.
 
 ## INFORMAÇÕES
 
