@@ -38,6 +38,7 @@
 - [ ] Exercício — Criar um Menu com DropDown.
 - [ ] Resolução — Criar um Menu com DropDown.
 - [ ] Formatação de Texto.
+- [ ] Box Model.
 
 ## INFORMAÇÕES
 
