@@ -46,6 +46,7 @@
 - [ ] Photoshop — Criando Documento.
 - [ ] Photoshop — Cortando Layout.
 - [ ] Photoshop — Salvando Imagens.
+- [ ] Photoshop — Transformando Imagem em HTML (Parte 1).
 
 ## INFORMAÇÕES
 
