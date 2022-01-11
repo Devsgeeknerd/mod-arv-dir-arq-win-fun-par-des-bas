@@ -47,6 +47,7 @@
 - [ ] Photoshop — Cortando Layout.
 - [ ] Photoshop — Salvando Imagens.
 - [ ] Photoshop — Transformando Imagem em HTML (Parte 1).
+- [ ] Photoshop — Transformando Imagem em HTMl (Parte 2).
 
 ## INFORMAÇÕES
 
