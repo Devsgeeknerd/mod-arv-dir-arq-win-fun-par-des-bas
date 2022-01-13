@@ -4,7 +4,7 @@
 
 - [x] [O que é HTML?](https://github.com/Devsgeeknerd/o-que-e-html)
 - [x] [Onde Salvar? Como Abrir?](https://github.com/Devsgeeknerd/onde-salvar-como-abrir)
-- [ ] Estrutura de uma Página Web.
+- [x] [Estrutura de uma Página Web.](https://github.com/Devsgeeknerd/estrutura-de-uma-pagina-web)
 - [ ] Cabeçalhos.
 - [ ] Parágrafos.
 - [ ] Formatação de Textos.
