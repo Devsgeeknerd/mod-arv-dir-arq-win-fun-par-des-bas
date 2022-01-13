@@ -6,7 +6,7 @@
 - [x] [Onde Salvar? Como Abrir?](https://github.com/Devsgeeknerd/onde-salvar-como-abrir)
 - [x] [Estrutura de uma Página Web.](https://github.com/Devsgeeknerd/estrutura-de-uma-pagina-web)
 - [x] [Cabeçalhos.](https://github.com/Devsgeeknerd/cabecalho)
-- [ ] Parágrafos.
+- [x] [Parágrafos.](https://github.com/Devsgeeknerd/paragrafos)
 - [ ] Formatação de Textos.
 - [ ] Listas não Ordenadas.
 - [ ] Listas Ordenadas.
