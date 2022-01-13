@@ -2,7 +2,7 @@
 
 ***Aulas:***
 
-- [ ] O que é HTML?
+- [x] [O que é HTML?](https://github.com/Devsgeeknerd/o-que-e-html)
 - [ ] Onde Salvar? Como Abrir?
 - [ ] Estrutura de uma Página Web.
 - [ ] Cabeçalhos.
