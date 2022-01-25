@@ -15,7 +15,7 @@
 - [ ] Tablelas.
 - [ ] Formulários.
 - [ ] Iframe.
-- [ ] Adicionadores de Eventos (OnClick).
+- [ ] [Adicionadores de Eventos (OnClick).](https://github.com/Devsgeeknerd/adc-eve-zp)
 - [ ] O que é CSS?
 - [ ] CSS — Inline.
 - [ ] CSS — Seletores.
