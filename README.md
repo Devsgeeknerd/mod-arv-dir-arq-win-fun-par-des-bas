@@ -10,7 +10,7 @@
 - [x] [Formatação de Textos.](https://github.com/Devsgeeknerd/formatacao-de-textos)
 - [x] [Listas não Ordenadas.](https://github.com/Devsgeeknerd/lis-nao-ord-zp)
 - [x] [Listas Ordenadas.](https://github.com/Devsgeeknerd/lis-ord-zp)
-- [ ] Imagens.
+- [x] [Imagens.](https://github.com/Devsgeeknerd/img-zp)
 - [ ] Links.
 - [ ] Tablelas.
 - [ ] Formulários.
