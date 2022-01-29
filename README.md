@@ -19,7 +19,7 @@
 - [x] [O que é CSS?](https://github.com/Devsgeeknerd/o-que-e-css-zp)
 - [x] [CSS — Inline.](https://github.com/Devsgeeknerd/css-inline-zp)
 - [x] [CSS — Seletores.](https://github.com/Devsgeeknerd/css-seletores-zp)
-- [ ] Classes e IDs.
+- [x] [Classes e IDs.](https://github.com/Devsgeeknerd/classes-e-ids-zp)
 - [ ] Tags, Div e Span.
 - [ ] Seletor Múltiplo.
 - [ ] Bordas.
@@ -36,7 +36,6 @@
 - [ ] Exercício — Criar um Rodapé Fixo.
 - [ ] Criando um Menu do Jeito Certo.
 - [ ] Exercício — Criar um Menu com DropDown.
-- [ ] Resolução — Criar um Menu com DropDown.
 - [ ] Formatação de Texto.
 - [ ] Box Model.
 - [ ] Elementos Flutuantes.
