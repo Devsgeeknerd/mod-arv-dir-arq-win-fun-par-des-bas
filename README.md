@@ -20,7 +20,7 @@
 - [x] [CSS — Inline.](https://github.com/Devsgeeknerd/css-inline-zp)
 - [x] [CSS — Seletores.](https://github.com/Devsgeeknerd/css-seletores-zp)
 - [x] [Classes e IDs.](https://github.com/Devsgeeknerd/classes-e-ids-zp)
-- [ ] Tags, Div e Span.
+- [x] [Tags — Div e Span.](https://github.com/Devsgeeknerd/tags-div-span-zp)
 - [ ] Seletor Múltiplo.
 - [ ] Bordas.
 - [ ] Seletor — Interno.
