@@ -7,7 +7,7 @@
 - [x] [Estrutura de uma Página Web.](https://github.com/Devsgeeknerd/estrutura-de-uma-pagina-web)
 - [x] [Cabeçalhos.](https://github.com/Devsgeeknerd/cabecalho)
 - [x] [Parágrafos.](https://github.com/Devsgeeknerd/paragrafos)
-- [ ] [Formatação de Textos.](https://github.com/Devsgeeknerd/formatacao-de-textos)
+- [x] [Formatação de Textos.](https://github.com/Devsgeeknerd/formatacao-de-textos)
 - [ ] Listas não Ordenadas.
 - [ ] Listas Ordenadas.
 - [ ] Imagens.
