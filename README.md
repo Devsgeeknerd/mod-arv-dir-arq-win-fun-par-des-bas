@@ -18,7 +18,7 @@
 - [x] [Adicionadores de Eventos (OnClick).](https://github.com/Devsgeeknerd/adc-eve-zp)
 - [x] [O que é CSS?](https://github.com/Devsgeeknerd/o-que-e-css-zp)
 - [x] [CSS — Inline.](https://github.com/Devsgeeknerd/css-inline-zp)
-- [ ] CSS — Seletores.
+- [x] [CSS — Seletores.](https://github.com/Devsgeeknerd/css-seletores-zp)
 - [ ] Classes e IDs.
 - [ ] Tags, Div e Span.
 - [ ] Seletor Múltiplo.
