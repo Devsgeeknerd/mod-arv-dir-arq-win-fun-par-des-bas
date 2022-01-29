@@ -23,7 +23,7 @@
 - [x] [Tags — Div e Span.](https://github.com/Devsgeeknerd/tags-div-span-zp)
 - [x] [Seletor — Múltiplo.](https://github.com/Devsgeeknerd/seletor-multiplo-zp)
 - [x] [Bordas.](https://github.com/Devsgeeknerd/bordas-zp)
-- [ ] Seletor — Interno.
+- [x] [Seletor — Interno.](https://github.com/Devsgeeknerd/seletor-interno-zp)
 - [ ] Seletor — Herança.
 - [ ] Seletor — Adjacente.
 - [ ] Seletor — Hover.
