@@ -8,7 +8,7 @@
 - [x] [Cabeçalhos.](https://github.com/Devsgeeknerd/cabecalho)
 - [x] [Parágrafos.](https://github.com/Devsgeeknerd/paragrafos)
 - [x] [Formatação de Textos.](https://github.com/Devsgeeknerd/formatacao-de-textos)
-- [ ] [Listas não Ordenadas.]
+- [x] [Listas não Ordenadas.](https://github.com/Devsgeeknerd/lis-nao-ord-zp)
 - [x] [Listas Ordenadas.](https://github.com/Devsgeeknerd/lis-ord-zp)
 - [ ] Imagens.
 - [ ] Links.
@@ -42,12 +42,12 @@
 - [ ] Elementos Flutuantes.
 - [ ] Elementos Inline, Block e Inline-block.
 - [ ] Formatando Links.
-- [ ] Photoshop — Introdução.
-- [ ] Photoshop — Criando Documento.
-- [ ] Photoshop — Cortando Layout.
-- [ ] Photoshop — Salvando Imagens.
-- [ ] Photoshop — Transformando Imagem em HTML (Parte 1).
-- [ ] Photoshop — Transformando Imagem em HTML (Parte 2).
+<!-- - [ ] Photoshop — Introdução. -->
+<!-- - [ ] Photoshop — Criando Documento. -->
+<!-- - [ ] Photoshop — Cortando Layout. -->
+<!-- - [ ] Photoshop — Salvando Imagens. -->
+<!-- - [ ] Photoshop — Transformando Imagem em HTML (Parte 1). -->
+<!-- - [ ] Photoshop — Transformando Imagem em HTML (Parte 2). -->
 
 ## INFORMAÇÕES
 
