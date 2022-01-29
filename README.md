@@ -22,7 +22,7 @@
 - [x] [Classes e IDs.](https://github.com/Devsgeeknerd/classes-e-ids-zp)
 - [x] [Tags — Div e Span.](https://github.com/Devsgeeknerd/tags-div-span-zp)
 - [x] [Seletor — Múltiplo.](https://github.com/Devsgeeknerd/seletor-multiplo-zp)
-- [ ] Bordas.
+- [x] [Bordas.](https://github.com/Devsgeeknerd/bordas-zp)
 - [ ] Seletor — Interno.
 - [ ] Seletor — Herança.
 - [ ] Seletor — Adjacente.
