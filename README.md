@@ -12,7 +12,7 @@
 - [x] [Listas Ordenadas.](https://github.com/Devsgeeknerd/lis-ord-zp)
 - [x] [Imagens.](https://github.com/Devsgeeknerd/img-zp)
 - [x] [Links.](https://github.com/Devsgeeknerd/links-zp)
-- [ ] Tablelas.
+- [x] [Tabelas.](https://github.com/Devsgeeknerd/tabelas-zp)
 - [ ] Formulários.
 - [ ] Iframe.
 - [ ] [Adicionadores de Eventos (OnClick).](https://github.com/Devsgeeknerd/adc-eve-zp)
