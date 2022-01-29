@@ -21,7 +21,7 @@
 - [x] [CSS — Seletores.](https://github.com/Devsgeeknerd/css-seletores-zp)
 - [x] [Classes e IDs.](https://github.com/Devsgeeknerd/classes-e-ids-zp)
 - [x] [Tags — Div e Span.](https://github.com/Devsgeeknerd/tags-div-span-zp)
-- [ ] Seletor Múltiplo.
+- [x] [Seletor — Múltiplo.](https://github.com/Devsgeeknerd/seletor-multiplo-zp)
 - [ ] Bordas.
 - [ ] Seletor — Interno.
 - [ ] Seletor — Herança.
