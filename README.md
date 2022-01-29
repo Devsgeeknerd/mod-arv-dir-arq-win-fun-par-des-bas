@@ -8,8 +8,8 @@
 - [x] [Cabeçalhos.](https://github.com/Devsgeeknerd/cabecalho)
 - [x] [Parágrafos.](https://github.com/Devsgeeknerd/paragrafos)
 - [x] [Formatação de Textos.](https://github.com/Devsgeeknerd/formatacao-de-textos)
-- [ ] Listas não Ordenadas.
-- [ ] Listas Ordenadas.
+- [ ] [Listas não Ordenadas.]
+- [x] [Listas Ordenadas.](https://github.com/Devsgeeknerd/lis-ord-zp)
 - [ ] Imagens.
 - [ ] Links.
 - [ ] Tablelas.
