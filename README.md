@@ -16,7 +16,7 @@
 - [x] [Formulários.](https://github.com/Devsgeeknerd/formulario-zp)
 - [x] [Iframe.](https://github.com/Devsgeeknerd/iframe-zp)
 - [x] [Adicionadores de Eventos (OnClick).](https://github.com/Devsgeeknerd/adc-eve-zp)
-- [ ] O que é CSS?
+- [x] [O que é CSS?](https://github.com/Devsgeeknerd/o-que-e-css-zp)
 - [ ] CSS — Inline.
 - [ ] CSS — Seletores.
 - [ ] Classes e IDs.
