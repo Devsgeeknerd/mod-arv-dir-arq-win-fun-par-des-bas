@@ -27,7 +27,7 @@
 - [x] [Seletor — Interno.](https://github.com/Devsgeeknerd/seletor-interno-zp)
 - [x] [Seletor — Herança.](https://github.com/Devsgeeknerd/sel-her)
 - [x] [Seletor — Adjacente.](https://github.com/Devsgeeknerd/sel-adj)
-<!-- - [ ] Seletor — Hover. -->
+- [x] [Seletor — Hover.](https://github.com/Devsgeeknerd/sel-hov)
 <!-- - [ ] Exercício — Selecionar os Itens e Colorir. -->
 <!-- - [ ] Exercício — Criar Tabelas Intermediaria. -->
 <!-- - [ ] Exercício — Criar Tabela Complexa. -->
