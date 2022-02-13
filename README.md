@@ -28,7 +28,7 @@
 - [x] [Seletor — Herança.](https://github.com/Devsgeeknerd/sel-her)
 - [x] [Seletor — Adjacente.](https://github.com/Devsgeeknerd/sel-adj)
 - [x] [Seletor — Hover.](https://github.com/Devsgeeknerd/sel-hov)
-<!-- - [ ] Exercício — Selecionar os Itens e Colorir. -->
+- [x] [Exercício — Selecionar os Itens e Colorir.](https://github.com/Devsgeeknerd/exe-sel-ite-col)
 <!-- - [ ] Exercício — Criar Tabelas Intermediaria. -->
 <!-- - [ ] Exercício — Criar Tabela Complexa. -->
 <!-- - [ ] Exercício — Criar Menu Simples. -->
