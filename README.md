@@ -29,7 +29,7 @@
 - [x] [Seletor — Adjacente.](https://github.com/Devsgeeknerd/sel-adj)
 - [x] [Seletor — Hover.](https://github.com/Devsgeeknerd/sel-hov)
 - [x] [Exercício — Selecionar os Itens e Colorir.](https://github.com/Devsgeeknerd/exe-sel-ite-col)
-<!-- - [ ] Exercício — Criar Tabelas Intermediaria. -->
+- [x] [Exercício — Criar Tabelas Intermediaria.](https://github.com/Devsgeeknerd/exe-cri-tab-int)
 <!-- - [ ] Exercício — Criar Tabela Complexa. -->
 <!-- - [ ] Exercício — Criar Menu Simples. -->
 <!-- - [ ] Position — Static, Absolute, Fixed e Relative. -->
