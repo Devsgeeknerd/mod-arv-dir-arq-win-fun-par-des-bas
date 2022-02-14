@@ -30,7 +30,7 @@
 - [x] [Seletor — Hover.](https://github.com/Devsgeeknerd/sel-hov)
 - [x] [Exercício — Selecionar os Itens e Colorir.](https://github.com/Devsgeeknerd/exe-sel-ite-col)
 - [x] [Exercício — Criar Tabelas Intermediaria.](https://github.com/Devsgeeknerd/exe-cri-tab-int)
-<!-- - [ ] Exercício — Criar Tabela Complexa. -->
+- [ ] [Exercício — Criar Tabela Complexa.](https://github.com/Devsgeeknerd/exe-cri-tab-com)
 <!-- - [ ] Exercício — Criar Menu Simples. -->
 <!-- - [ ] Position — Static, Absolute, Fixed e Relative. -->
 <!-- - [ ] Display — None, Inline, Block e Inline-block. -->
