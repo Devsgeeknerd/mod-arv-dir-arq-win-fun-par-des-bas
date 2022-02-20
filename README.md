@@ -32,7 +32,7 @@
 - [x] [Exercício — Criar Tabelas Intermediaria.](https://github.com/Devsgeeknerd/exe-cri-tab-int)
 - [x] [Exercício — Criar Tabela Complexa.](https://github.com/Devsgeeknerd/exe-cri-tab-com)
 - [x] [Exercício — Criar Menu Simples.](https://github.com/Devsgeeknerd/exe-cri-men-sim)
-- [ ] [Position — Static, Absolute, Fixed e Relative.](https://github.com/Devsgeeknerd/pos-sta-abs-fix-rel)
+- [x] [Position — Static, Absolute, Fixed e Relative.](https://github.com/Devsgeeknerd/pos-sta-abs-fix-rel)
 <!-- - [ ] Display — None, Inline, Block e Inline-block. -->
 <!-- - [ ] Exercício — Criar um Rodapé Fixo. -->
 <!-- - [ ] Criando um Menu do Jeito Certo. -->
