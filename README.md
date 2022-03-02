@@ -35,7 +35,7 @@
 - [x] [Position — Static, Absolute, Fixed e Relative.](https://github.com/Devsgeeknerd/pos-sta-abs-fix-rel)
 - [x] [Display — None, Inline, Block e Inline-block.](https://github.com/Devsgeeknerd/dis-non-inl-blo)
 - [x] [Exercício — Criar um Rodapé Fixo.](https://github.com/Devsgeeknerd/exe-cri-um-rod-fix)
-- [ ] [Criando um Menu do Jeito Certo.](https://github.com/Devsgeeknerd/cri-um-men-do-jei-cer)
+- [x] [Criando um Menu do Jeito Certo.](https://github.com/Devsgeeknerd/cri-um-men-do-jei-cer)
 <!-- - [ ] Exercício — Criar um Menu com DropDown. -->
 <!-- - [ ] Formatação de Texto. -->
 <!-- - [ ] Box Model. -->
