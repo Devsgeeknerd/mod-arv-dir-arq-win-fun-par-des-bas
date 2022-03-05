@@ -1,5 +1,5 @@
 <!-- TITLE -->
-# HTML E CSS
+# HTML & CSS
 
 ***Aulas:***
 
@@ -37,7 +37,7 @@
 - [x] [Exercício — Criar um Rodapé Fixo.](https://github.com/Devsgeeknerd/exe-cri-um-rod-fix)
 - [x] [Criando um Menu do Jeito Certo.](https://github.com/Devsgeeknerd/cri-um-men-do-jei-cer)
 - [x] [Exercício — Criar um Menu com DropDown.](https://github.com/Devsgeeknerd/exe-cri-um-men-com-dro-dow)
-<!-- - [ ] Formatação de Texto. -->
+- [x] [Formatação de Texto.](https://github.com/Devsgeeknerd/for-tex)
 <!-- - [ ] Box Model. -->
 <!-- - [ ] Elementos Flutuantes. -->
 <!-- - [ ] Elementos Inline, Block e Inline-block. -->
