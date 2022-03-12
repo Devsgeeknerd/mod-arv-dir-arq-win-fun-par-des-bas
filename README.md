@@ -39,7 +39,7 @@
 - [x] [Exercício — Criar um Menu com DropDown.](https://github.com/Devsgeeknerd/exe-cri-um-men-com-dro-dow)
 - [x] [Formatação de Texto.](https://github.com/Devsgeeknerd/for-tex)
 - [x] [Box Model.](https://github.com/Devsgeeknerd/box-mod)
-<!-- - [ ] Elementos Flutuantes. -->
+- [ ] Elementos Flutuantes.
 <!-- - [ ] Elementos Inline, Block e Inline-block. -->
 <!-- - [ ] Formatando Links. -->
 
