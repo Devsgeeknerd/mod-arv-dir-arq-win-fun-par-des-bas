@@ -38,16 +38,10 @@
 - [x] [Criando um Menu do Jeito Certo.](https://github.com/Devsgeeknerd/cri-um-men-do-jei-cer)
 - [x] [Exercício — Criar um Menu com DropDown.](https://github.com/Devsgeeknerd/exe-cri-um-men-com-dro-dow)
 - [x] [Formatação de Texto.](https://github.com/Devsgeeknerd/for-tex)
-<!-- - [ ] Box Model. -->
+- [ ] [Box Model.](https://github.com/Devsgeeknerd/box-mod)
 <!-- - [ ] Elementos Flutuantes. -->
 <!-- - [ ] Elementos Inline, Block e Inline-block. -->
 <!-- - [ ] Formatando Links. -->
-<!-- - [ ] Photoshop — Introdução. -->
-<!-- - [ ] Photoshop — Criando Documento. -->
-<!-- - [ ] Photoshop — Cortando Layout. -->
-<!-- - [ ] Photoshop — Salvando Imagens. -->
-<!-- - [ ] Photoshop — Transformando Imagem em HTML (Parte 1). -->
-<!-- - [ ] Photoshop — Transformando Imagem em HTML (Parte 2). -->
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
