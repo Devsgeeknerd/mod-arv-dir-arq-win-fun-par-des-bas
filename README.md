@@ -40,7 +40,7 @@
 - [x] [Formatação de Texto.](https://github.com/Devsgeeknerd/for-tex)
 - [x] [Box Model.](https://github.com/Devsgeeknerd/box-mod)
 - [x] [Elementos — Flutuantes.](https://github.com/Devsgeeknerd/ele-flu)
-- [ ] [Elementos — None, Inline, Block e Inline-block.](https://github.com/Devsgeeknerd/ele)
+- [x] [Elementos — None, Inline, Block e Inline-block.](https://github.com/Devsgeeknerd/ele)
 - [ ] [Formatando Links.](https://github.com/Devsgeeknerd/for-links)
 
 <!-- TABLE OF CONTENTS -->
